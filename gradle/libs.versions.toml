@@ -75,4 +75,5 @@ azure-storage-blob = { module = "com.azure:azure-storage-blob", version = "12.29
 minio-io = { module = "io.minio:minio", version = "8.5.14" }
 
 [plugins]
-shadow = { id = "com.github.johnrengelman.shadow", version = "8.1.1" }
+shadow = { id = "com.gradleup.shadow", version = "8.3.5" }
+
